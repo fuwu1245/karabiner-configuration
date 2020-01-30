@@ -1,5 +1,5 @@
 {
-    "title": "Use CAPS LOCK for vi navigation",
+    "title": "Use CAPS LOCK for arrow",
     "rules": [
         {
             "description": "CAPS LOCK + wasd to arrow keys",
